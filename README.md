@@ -1,9 +1,9 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Code 27: Testing and Deployment
 
-### Author: Student/Group Name
+### Author: Jacob Anderson
 
 ### Links and Resources
 * [repo](https://github.com/1anderson2jacob/27-testing-and-deployment)
